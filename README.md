@@ -62,6 +62,65 @@ Performed advanced analytics using **Python** to explore and cluster keyword per
   - Competition  
 
 #### 📜 **Python Libraries Used**
-```python
+| Category            | Tools / Libraries                       |
+| ------------------- | --------------------------------------- |
+| Environment         | **Google Colab**                        |
+| Language            | **Python**                              |
+| Data Analysis       | **Pandas**, **NumPy**                   |
+| Visualization       | **Matplotlib**, **Seaborn**, **Plotly** |
+| clustering analysis | **Elbow Method** , **K-Means**          |
+
+📜 **Python Script:**
+[Python_Analysis_Script.ipynb](https://github.com/Kshitija-Agrawal/Traffic-Data-Analysis/blob/main/traffic_internship_ML.ipynb)
+
+---
+
+## 🧩 Dataset Information
+The dataset includes:
+- **Title Lookup Table** – Contains page or content titles  
+- **Keyword Lookup Table** – Stores keyword metadata and performance metrics  
+- **Traffic Data Table** – Tracks keyword ranking, traffic cost, and trends  
+
+🔗 **Dataset Source:** 
+[Traffic Data.xlsx](https://github.com/Kshitija-Agrawal/Traffic-Data-Analysis/blob/main/traffic%20data%20set.xls)
+
+---
+
+## ⚙️ Tools & Technologies Used
+| Tool | Purpose |
+|------|----------|
+| **Excel** | Data cleaning, transformation, and lookup-based table creation |
+| **MySQL** | Database design and EER modeling |
+| **Power BI** | Dashboard and visualization |
+| **Python** | EDA, clustering, and statistical analysis |
+
+---
+
+## 🏁 Key Outcomes
+- Built a **fully relational data model** linking keywords, titles, and traffic metrics.  
+- Designed a **dynamic Power BI dashboard** for real-time insights.  
+- Automated further analysis through **Python scripting**.  
+- Demonstrated complete **data lifecycle management** from Excel to visualization.
+
+---
+
+## 📂 Project Files
+| File Name | Description |
+|------------|-------------|
+| `Tables` | Raw and cleaned dataset |
+| `traffic data set.xls` | dataset |
+| `Traffic-dashboard.png` | Power BI dashboard image |
+| `EER diagram.png` | Entity Relationship Diagram |
+| `traffic-internship.pbix` | Power BI dashboard |
+| `traffic_internship_ML.ipynb` | Python data analysis script |
+
+---
+
+## 👩‍💻 Author
+**Kshitija Agrawal**  
+📧 *[kshitijaagrawal2@gmail.com]*  
+💼 *[https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit]*  
+
+
 
   
