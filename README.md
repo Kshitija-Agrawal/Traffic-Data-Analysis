@@ -63,58 +63,5 @@ Performed advanced analytics using **Python** to explore and cluster keyword per
 
 #### 📜 **Python Libraries Used**
 ```python
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-%matplotlib inline
-from sklearn.cluster import KMeans
 
-
-📜 **Python Script:** 
-    [Python_Analysis_Script.ipynb](https://github.com/Kshitija-Agrawal/Traffic-Data-Analysis/blob/main/traffic_internship_ML.ipynb)
-
----
-
-## 🧩 Dataset Information
-The dataset includes:
-- **Title Lookup Table** – Contains page or content titles  
-- **Keyword Lookup Table** – Stores keyword metadata and performance metrics  
-- **Traffic Data Table** – Tracks keyword ranking, traffic cost, and trends  
-
-🔗 **Dataset Source:** [Traffic Data - internship.xlsx](link_to_dataset_here)
-
----
-
-## ⚙️ Tools & Technologies Used
-| Tool | Purpose |
-|------|----------|
-| **Excel** | Data cleaning, transformation, and lookup-based table creation |
-| **MySQL** | Database design and EER modeling |
-| **Power BI** | Dashboard and visualization |
-| **Python** | EDA, clustering, and statistical analysis |
-
----
-
-## 🏁 Key Outcomes
-- Built a fully relational data model linking titles, keywords, and traffic.
-- Designed an interactive Power BI dashboard to visualize key performance metrics.
-- Applied K-Means clustering to segment keywords based on traffic and cost behavior.
-- Demonstrated complete data analytics workflow — from Excel → SQL → Power BI → Python.
-
----
-
-## 📂 Project Files
-| File Name | Description |
-|------------|-------------|
-| `Traffic data - internship.xlsx` | Raw and cleaned dataset |
-| `EER diagram.png` | Entity Relationship Diagram |
-| `traffic-internship.pbix` | Power BI dashboard |
-| `Python_Analysis_Script.py` | Python data analysis script |
-
----
-
-## 👩‍💻 Author
-**Kshitija Agrawal**  
-📧 *[kshitijaagrawal2@gmail.com]*  
-💼 *[https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit]*  
+  
