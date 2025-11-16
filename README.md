@@ -119,7 +119,7 @@ The dataset includes:
 ## 👩‍💻 Author
 **Kshitija Agrawal**  
 📧 *[kshitijaagrawal2@gmail.com]*  
-💼 *[https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit]*  
+💼 *[https://www.linkedin.com/in/kshitijaagrawal/]*  
 
 
 
