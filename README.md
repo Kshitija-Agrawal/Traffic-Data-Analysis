@@ -46,6 +46,9 @@ It provides a complete end-to-end data analytics workflow — from data modeling
 📊 **Power BI File:**
     [traffic\_Analysis\_Dashboard.pbix](https://github.com/Kshitija-Agrawal/Traffic-Data-Analysis/blob/main/traffic-internship.pbix)
 
+📊 **Dashboard:**
+![Dashboard](https://github.com/Kshitija-Agrawal/Traffic-Data-Analysis/blob/main/traffic%20-%20dashboard.png)
+
 ---
 
 ### 🐍 **Step 4: Python Analysis**
